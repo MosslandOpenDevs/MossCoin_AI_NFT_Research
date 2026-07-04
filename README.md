@@ -1,5 +1,7 @@
 # MossCoin in Generative AI: Developing an NFT Platform for Creative Prompts
 
+> 📌 **2026 Research Update.** The ground under "prompt NFTs" shifted between 2024 and 2026: the US Copyright Office ruled a **prompt alone is not an ownable authored work**, provenance standards (C2PA Content Credentials, Google SynthID) went into production, the **EU AI Act** made AI-content labeling legally required from **Aug 2, 2026**, and **Story** launched an on-chain IP-licensing Layer-1. See **[2026 AI Content Provenance & On-Chain IP](2026_AI_Content_Provenance_and_Onchain_IP.md)** for the sourced review and Mossland's proposed pivot: from a *prompt-NFT marketplace* toward **AI provenance + on-chain IP licensing infrastructure, settled in MOC**. *(The sections below reflect the original 2024–2025 concept and are retained for context.)*
+
 ## Introduction
 The landscape of Generative AI is rapidly evolving, with a particular emphasis on the utilization of AI in creating digital artworks. As the technology progresses, the importance of 'prompt engineering' - the art of crafting detailed prompts to generate specific AI outputs - has become increasingly significant. This paper introduces a groundbreaking project that aims to revolutionize the Generative AI space by integrating MossCoin with an NFT platform specifically designed for trading creative AI prompts. The concept is inspired by the Duckee platform.
 
