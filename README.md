@@ -1,5 +1,9 @@
 # MossCoin in Generative AI: Developing an NFT Platform for Creative Prompts
 
+<!-- opendevs-badges:start -->
+[![Repository: MosslandOpenDevs](https://img.shields.io/badge/Repository-MosslandOpenDevs-64748b?style=flat)](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)
+<!-- opendevs-badges:end -->
+
 > 📌 **2026 Research Update.** The ground under "prompt NFTs" shifted between 2024 and 2026: the US Copyright Office ruled a **prompt alone is not an ownable authored work**, provenance standards (C2PA Content Credentials, Google SynthID) went into production, the **EU AI Act** made AI-content labeling legally required from **Aug 2, 2026**, and **Story** launched an on-chain IP-licensing Layer-1. See **[2026 AI Content Provenance & On-Chain IP](2026_AI_Content_Provenance_and_Onchain_IP.md)** for the sourced review and Mossland's proposed pivot: from a *prompt-NFT marketplace* toward **AI provenance + on-chain IP licensing infrastructure, settled in MOC**. *(The sections below reflect the original 2024–2025 concept and are retained for context.)*
 
 ## Introduction
